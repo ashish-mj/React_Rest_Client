@@ -1,4 +1,4 @@
-.App {
+App {
   text-align: center;
 }
 
@@ -35,4 +35,39 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.data{
+  padding-right: 1%;
+}
+.pList{
+  text-align: left;
+  margin-left:10%;
+  width:50%;
+  float: left;
+
+}
+.product{
+  background-color:gainsboro;
+  border-style: outset;
+  border-color:crimson;
+  border-width: medium;
+  padding: 5%;
+  margin-bottom: 5%;
+  margin-left: 3%;
+  width: 30%;
+  float:left;
+}
+#hide{
+  float: right;
+}
+.productList{
+ 
+ /* float:left;*/
+}
+.newProductForm{
+  width: 30%;;
+  float :right;
+  padding-top: 8%;
+  padding-right: 10%;
 }
